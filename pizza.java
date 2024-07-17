@@ -1,4 +1,4 @@
-import javax.print.DocFlavor.STRING;
+
 
 public class pizza {
 
@@ -21,7 +21,7 @@ public class pizza {
 
     }
     
-    pizza(String bread,String sauce,String cheese,){
+    pizza(String bread,String sauce,String cheese){
 
         this.Bread = bread;
         this.sauce = sauce;
