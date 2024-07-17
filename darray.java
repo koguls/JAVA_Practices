@@ -11,4 +11,4 @@ public static void main(String arg[]){
     System.out.println(a[0][1]); 
     System.out.print(arrays[0][1]);
 }
-}
+}  
