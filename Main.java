@@ -6,7 +6,7 @@ public class Main {
         System.out.println(local);
 
 
-        
+
         pizza Pizza = new pizza("NORMAL bread");
        
 
@@ -15,6 +15,10 @@ public class Main {
         System.out.println(Pizza.sauce);
         System.out.println(Pizza.cheese);
         System.out.println(Pizza.topping);
+
+
+        tostringcar car = new tostringcar();
+        System.out.println(car.toString());
 
 
         
