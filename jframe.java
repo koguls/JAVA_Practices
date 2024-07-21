@@ -15,8 +15,10 @@ public class jframe {
         
 
 
-        ImageIcon image = new ImageIcon("ko.png");
+        ImageIcon image = new ImageIcon("apple.png");
         frame.setIconImage(image.getImage());
-        frame.getContentPane().setBackground(Color.green);
+        frame.getContentPane().setBackground(Color.green); //new Color(hex)
+
+
     }
 }
